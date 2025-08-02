@@ -1,0 +1,100 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #faf7f5;
+}
+.hedder_1{
+    height: 30px;
+    background-color: #222831;
+}
+.logos{
+    padding-left: 35px;
+    padding-top: 5px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
+    opacity: 0.7;
+
+}
+.hot_2:hover{
+    opacity: 1;
+}
+.hedear_2{
+    background-color: #dcdcdc;
+    height: 120px;
+    display: flex;
+}
+.header_link{
+    margin-top: 90px;
+    margin-left: 10px;
+    /* width: 70%; */
+}
+.header_link a{
+     display: inline;
+    justify-content: space-evenly;
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+    opacity: 1;
+}
+.hot:hover{
+    opacity: 0.6;
+}
+
+.hero-img{
+    background-image: url(/Beige\ Aesthetic\ Personal\ Brand\ Website\ Blog\ Banner.png);
+    background-size: cover;
+    background-repeat: none;
+    height: 150px;
+    width: 100%;
+}
+.item-section{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.box{
+    height: 400px;
+    width: 40%;
+    background-color: #222831;
+    padding: 20px 0px 15px;
+    margin: 15px;
+    border-radius: 25px;
+    margin: 25px;
+}
+.box_img{
+    height: 320px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+.conent-box{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.text{
+    text-decoration: none;
+    color:#91C8E4 ;
+    margin-left: 10px;
+}
+.text_item{
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+
+.main_logo{
+    background-image: url(/Minimalistic\ Black\ and\ White\ \'EX\'\ Logo.png);
+    height: 120px;
+    width: 120px;
+    background-size:cover;
+}
+
+
+
+
